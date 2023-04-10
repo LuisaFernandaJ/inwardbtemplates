@@ -1,0 +1,49 @@
+{
+    "TemplatesL":[
+
+        {
+            "id": 1,
+            "title": "Introduccion a la contabilidad",
+            "template_content": "La Contabilidad es una disciplina que se ocupa de estudiar y realizar mediciones sobre las finanzas y patrimonios de los individuos o las empresas para conocer el estado de las cuentas y así disponer mejor del dinero, planear inversiones, comprar, entre otras operaciones. Asimismo, se encarga de que las personas y los propietarios de las empresas cumplan en tiempo y forma con el pago de sus respectivos impuestos.",
+            "img": "https://img.freepik.com/vector-gratis/gente-negocios-concepto-trabajo_24908-60356.jpg?w=1380&t=st=1681137214~exp=1681137814~hmac=6648e499d4135f7f2268cb2a74b0346cf36af95ac64d6c3660e6af9b372e184e",
+            "backgroundColor": "#E3A163",
+            "template_num": "template-one"
+        },
+        {
+            "id": 2,
+            "title": "Cuentas contables",
+            "template_content": "Las cuentas contables son instrumentos de operación donde se asientan los activos (cuentas por cobrar), los pasivos (cuentas por pagar) y el capital de una empresa (flujo de caja). De manera que estas reflejan los aumentos y la disminución que tiene una institución.",
+            "img": "https://img.freepik.com/vector-gratis/concepto-evaluacion-credito-diseno-plano_23-2149154572.jpg?w=1800&t=st=1681137276~exp=1681137876~hmac=7a66c8bcef1af308fec8a47da38bf54167b3eaffd0f2831e44aed8c770dba0ed",
+            "backgroundColor": "#E3A163",
+            "template_num": "template-two"
+        },
+
+        {
+            "id": 3,
+            "title": "Introduccion al desarrollo de sistemas",
+            "template_content": "El desarrollo de software se refiere a un conjunto de actividades informáticas dedicadas al proceso de creación, diseño, despliegue y compatibilidad de software. El software en sí es el conjunto de instrucciones o programas que le dicen a una computadora qué hacer. Es independiente del hardware y hace que las computadoras sean programables.",
+            "img": "https://img.freepik.com/vector-gratis/desarrolladores-web-dibujados-mano_23-2148819604.jpg?w=1800&t=st=1681137340~exp=1681137940~hmac=87bcef00a10adbd98fff09586ed394879b7f663e8a17c417a0fd04ad7c978fd5",
+            "backgroundColor": "#FF6374",
+            "template_num": "template-three"
+        },
+
+        {
+            "id": 4,
+            "title": "Introduccion al diseño de UI ",
+            "template_content": "La interfaz de usuario o UI (User Interface) es un concepto que abarca arquitectura de información, patrones y diferentes elementos visuales que nos permiten interactuar de forma eficaz con sistemas operativos y softwares de diversos dispositivos.",
+            "img": "https://img.freepik.com/vector-gratis/fondo-degradado-ui-ux-elementos_23-2149056160.jpg?w=1800&t=st=1681139581~exp=1681140181~hmac=434956173a35bedf88a8fe22fc1bbb649303df9bf6f990f7819491774f361eb9",
+            "backgroundColor": "#7C83FF",
+            "template_num": "template-four"
+        },
+
+        {
+            "id": 5,
+            "title": "Introduccion al Marketing digital",
+            "template_content": "Marketing Digital, también llamado mercadotecnia online o mercadeo en línea, se define como una forma de marketing que utiliza los nuevos medios y canales publicitarios tecnológicos y digitales como internet, el móvil o el IoT. Gracias al poder de la tecnología permite crear productos y servicios personalizados y medir todo lo que ocurre para mejorar la experiencia.",
+            "img": "https://img.freepik.com/vector-gratis/concepto-isometrico-servicio-marketing-digital-varios-dispositivos-electronicos-mujer-trabajo-3d-ilustracion-vectorial_1284-29972.jpg?w=1480&t=st=1681139683~exp=1681140283~hmac=be17af436be3328e37d125f783af362b8634d36c02ddb510293070d9c30d2dcd",
+            "backgroundColor": "#E3A163",
+            "template_num": "template-five"
+        }
+    ]
+    
+}
